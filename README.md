@@ -95,6 +95,13 @@ El dashboard permite filtrar por **mes, sucursal, categoría, producto, método 
 
 ---
 
+## 📚 Fuentes
+
+- Dataset generado mediante Claude IA (Anthropic): https://claude.ai
+- Captura del dashboard: elaboración propia.
+
+---
+
 ## 📄 Licencia y autoría
 
 © 2025 – Proyecto académico realizado por **[Noelia Leder]**
