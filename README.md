@@ -71,3 +71,32 @@ El dashboard permite filtrar por **mes, sucursal, categoría, producto, método 
 ---
 
 ## 📂 Estructura del proyecto
+
+```
+├── data/
+│   ├── raw/
+│   │   └── dataset_cafeteria_moderna.csv              
+│   └── clean/
+│       └── data_set_limpio (4).csv       
+├── notebook/
+│   └── Proyecto_cafeteria_entrega (1).ipynb          
+├── dashboard/
+│   └── Dashboard cafeteria.pbix                
+└── README.md
+```
+
+---
+
+## 🚀 Cómo usarlo
+
+1. Cloná el repositorio.
+2. Abrí `dashboard/Dashboard cafeteria.pbix` con **Power BI Desktop**.
+3. Explorá el tablero usando los filtros de la izquierda (mes, sucursal, categoría, producto, método de pago, canal).
+
+---
+
+## 📄 Licencia y autoría
+
+© 2025 – Proyecto académico realizado por **[Noelia Leder]**
+Para la Universidad Tecnológica Nacional (UTN)
+
