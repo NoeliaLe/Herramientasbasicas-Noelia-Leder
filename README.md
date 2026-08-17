@@ -1,7 +1,10 @@
 # ☕ Dashboard de Ventas – Cafetería
 
 > Proyecto final del curso **Herramientas Básicas para el Análisis de Datos** – UTN
+
 Alumna: **Noelia Leder**
+
+
 Análisis y visualización de las ventas de una cadena de cafeterías en distintas sucursales de Buenos Aires, a partir de un dataset transaccional con más de 900 registros. El proyecto abarca la limpieza de datos y la construcción de un dashboard interactivo en **Power BI** para explorar ingresos, ganancias, calificaciones de clientes y comportamiento de consumo.
 
 ---
