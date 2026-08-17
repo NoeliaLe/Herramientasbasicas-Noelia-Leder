@@ -64,7 +64,7 @@ El dashboard permite filtrar por **mes, sucursal, categoría, producto, método 
 | Transacciones | 921 |
 | Calificación promedio | 4,25 ⭐ |
 
-![Dashboard Cafetería](img/dashboard_cafeteria.png)
+<img width="1276" height="712" alt="Imagen_dashboard_cafeteria" src="https://github.com/user-attachments/assets/bb2bb44a-ca97-4279-9708-087ac582af2c" />
 
 > 📁 El archivo interactivo se encuentra en `dashboard/Dashboard cafeteria.pbix` (requiere Power BI Desktop para visualizarlo).
 
